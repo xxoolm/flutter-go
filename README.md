@@ -15,14 +15,23 @@ Language: [English](https://github.com/alibaba/flutter-go/blob/master/README-en.
 
 [<< Flutter Go 开发规范第一版 >>](https://github.com/alibaba/flutter-go/blob/develop/Flutter_Go%20%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.md)
 
+## The Flutter-Go Roadmap（路线图） for 2019 
+> 考虑到 Flutter 未来的变化和策略的可变性, roadmap 不排除有一定调整，但总体不会变化太大。
+
+<img src="https://img.alicdn.com/tfs/TB19UahQQzoK1RjSZFlXXai4VXa-1500-1106.png" width="600px">
+
+
+
 ## Release安装包下载地址
 
 android下载地址:
 
-<img src="https://img.alicdn.com/tfs/TB1QLTjNNjaK1RjSZKzXXXVwXXa-428-422.png" width="200px">
+<img src="https://img.alicdn.com/tfs/TB1ylxGTMHqK1RjSZFgXXa7JXXa-436-432.png" width="200px">
 
-iphone下载地址:
-暂无
+iphone下载地址: AppStore上面进行搜索fluttego
+
+<img src="https://img.alicdn.com/tfs/TB1trMgV7PoK1RjSZKbXXX1IXXa-620-1343.png" width=200> <img src="https://img.alicdn.com/tfs/TB1w_MbV7voK1RjSZFDXXXY3pXa-620-1343.png" width=200> 
+
 
 ## 基础环境
 本项目环境持续更新. 请定期更新各依赖包.
@@ -52,7 +61,7 @@ flutter优点主要包括：
 
 #### Flutter Go 的优势
 
-- 详解常用widget多达 **140+** 个
+- 详解常用 widget 多达 **140+** 个
 - 配套 Demo 详解 widget 常规用法
 - 集中整合 widget 案例，一个 APP 搞定所有常用 widget 的用法
 - 持续迭代 ‘追新’ 官方版本
@@ -96,35 +105,24 @@ flutter优点主要包括：
   </tbody>
 </table>
 
+### 版权说明
+- 感谢大家对 `flutter go` 的支持和下载,但近期发现，有类似直接被发布到苹果 app store 上的行为，并未注明真实来源，copyright 和 项目的 github 地址，以及开发者的版权相关信息（ 包括删除"首页栏的版权声明"和"关于我们"的行为 );
+
+- 上述行为，打击了 `flutter go` 开发者的积极性，同时干扰了 flutter go app 的正常发布渠道，基于 app 开源项目的发布特殊性，特更新 [LICENSE](LICENSE) 「 开源许可证 」,由 MIT 协议 更改为 BSD 协议, 同时建议不要随意发布到公共渠道的应用商店，影响官方 `flutter go` 的app版本迭代;
+
+- 大家可以继续放心的开源使用,但是要求注意和遵守以下许可前提:
+```
+    * 版权声明样式
+    //Copyright (c) 2018-present, Alibaba Group Holding Limited. All rights reserved.
+    
+    * 源代码的重新分发必须保留上述版权声明，条件清单和免责声明。
+    
+    * 二进制形式的再分发必须复制上述版权声明，此条件列表以及文档中的以下免责声明和/或随分发提供的其他材料。
+```
+- 由于本开源项目是供大家学习和交流 flutter 之用，里面耗费了开发人员大量的心血，精力和热情，请尊重开发者的劳动成果,以及相关许可证之规定;
+
+- 大家的互相信任，尊重与支持，才是开源社区前进的动力和来源.
+
 Powered by [阿里拍卖前端团队](https://github.com/alibaba-paimai-frontend)<img src="https://img.alicdn.com/tfs/TB1foEhAMHqK1RjSZJnXXbNLpXa-166-166.png" width=20 height=20>
 
-
----
-
-## 加个广告：团队招聘
-
-  ### 🔥《阿里巴巴集团春季校园招聘》已经启动。
-  
-- 团队获取此消息后第一时间，赶紧通知，各位刚走出校园的千里马，走进阿里的机会来了！！！
- 
- 基本要求如下：
- 
- - 招收 2019年11月-2020年10月 毕业的同学
- - 本次校招行动共执行四周，到 4月12日结束
-
-#### 🔔强调一下这次是校招哦！！！如果你有意向，又符合 2019年11月-2020年10月 的应届毕业生条件;
-
-- 不符合，也没关系，可以推荐优秀的学弟，学妹；增进一下“纯洁”的同学感情 👫😎。
-
-#### 请移步往下,关注我们《阿里拍卖团队》 的招聘信息。
-
-<img src="https://img.alicdn.com/tfs/TB1mJ5tL7PoK1RjSZKbXXX1IXXa-748-879.png" width=500>
-
-<img src="https://img.alicdn.com/tfs/TB1PhOrLYrpK1RjSZTEXXcWAVXa-748-794.png" width=500>
-
-<img src="https://img.alicdn.com/tfs/TB1FXOlLYPpK1RjSZFFXXa5PpXa-748-440.png" width=500>
-
-#### 最重要的部分来了，手机扫描下面二维码，即可进入简历投递系统
-
-<img src="https://img.alicdn.com/tfs/TB1POOuL7PoK1RjSZKbXXX1IXXa-169-166.jpg" width=200>
-
++++++++
